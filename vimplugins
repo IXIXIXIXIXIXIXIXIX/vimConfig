@@ -1,0 +1,12 @@
+
+LOCAL ADDITIONS:				*local-additions*
+|ctrlp.txt|       Fuzzy file, buffer, mru, tag, ... finder. v1.80
+|devicons|
+|airline-themes.txt|  Themes for vim-airline
+|airline.txt|  Lean and mean status/tabline that's light as air
+|tagbar.txt|    Display tags of a file ordered by scope
+|NERDTree.txt|   A tree explorer plugin to rule the Vim world. Bwahahaha!!
+|fzf-vim.txt|	fzf-vim	Last change: August 31 2018
+|youcompleteme.txt|  YouCompleteMe: a code-completion engine for Vim
+|vundle.txt|          Vundle, a plug-in manager for Vim.             *vundle*
+|youcompleteme.txt|  YouCompleteMe: a code-completion engine for Vim
